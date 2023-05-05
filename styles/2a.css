@@ -1,0 +1,139 @@
+.request_now-button {
+  background-color: black;
+  color: white;
+  height: 50px;
+  width: 150px;
+  text-size-adjust: 50px;
+  font-size: medium;
+  font-weight: 100;
+  cursor: pointer;
+  transition: opacity .15;
+}
+.request_now-button:hover {
+  background-color: white;
+}
+.request_now-button:active{
+  opacity: .4;
+}
+
+
+.add_to_cart-button {
+background-color: rgb(255, 0, 34);
+width: 250px;
+height: 45px;
+border: none;
+font-size: medium;
+font-weight: 300;
+cursor: pointer;
+border-radius: 100px;
+transition: opacity .15;
+
+}
+.add_to_cart-button:hover {
+background-color: blue;
+}
+.add_to_cart-button:active {
+opacity: .4;
+}
+
+.sign_up-button {
+background-color: green;
+color: white;
+height: 50px;
+width: 100px;
+font-size: large;
+cursor: pointer;
+border-radius: 10px;
+border: none;
+transition: opacity .15;
+
+}
+
+.sign_up-button:hover {
+background-color: yellow;
+}
+.sign_up-button:active {
+opacity: .4;
+}
+
+.get_started-button {
+background-color: rgb(107, 68, 248);
+color: white;
+height: 50px;
+width: 125px;
+border: none;
+border-radius: 5px;
+text-size-adjust: 12px;
+font-weight: bold;
+font-size: medium;
+margin-right: 10px;
+cursor: pointer;
+transition: opacity .15;
+}
+.get_started-button:hover {
+background-color: aqua;
+}
+.get_started-button:active {
+opacity: .4;
+}
+.apply_on_company_website-button {
+background-color: rgb(211, 25, 40);
+color: white;
+width: 400px;
+height: 60px;
+border: none;
+font-size: x-large;
+border-radius: 100px;
+font-weight: 100;
+cursor: pointer;
+transition: opacity .15;
+
+}
+.apply_on_company_website-button:hover {
+background-color: blue;
+}
+.apply_on_company_website-button:active {
+opacity: .4;
+}
+
+.download-button {
+background-color: white;
+border-style: solid;
+height: 50px;
+width: 120px;
+cursor: pointer;
+font-size: medium;
+border-radius: 10px;
+cursor: pointer;
+transition: opacity .15;
+}
+.download-button:hover{
+background-color: black;
+
+}
+.download-button:active {
+opacity: .4;
+}
+.save-button:hover{
+background-color: black;
+}
+.save-button {
+background-color: white;
+color: blue;
+width: 200px;
+height: 60px;
+border: thin;
+border-style:solid;
+font-style: thick;
+font-size: larger;
+cursor: pointer;
+border-radius: 100px;
+transition: opacity .15;
+}
+.save-button:hover{
+background-color: black;
+}
+.save-button:active {
+opacity: .4;
+}
+ 

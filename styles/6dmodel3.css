@@ -1,0 +1,20 @@
+.model-text { 
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 5px;
+
+}
+   .order-text {
+    font-size: medium;
+    text-align: center;
+}
+  .touch-text {
+    text-decoration: underline;
+    
+  }
+  .touch-text:hover{
+    color: blue;
+    cursor: pointer;
+  }
+

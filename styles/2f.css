@@ -1,0 +1,34 @@
+.nike_black_running_shoes-paragraph {
+  font-size: xx-large;
+  font-weight: bolder;
+}   
+._39_-_in_stock-paragraph{
+  color: green;
+  font-size: x-large;
+
+} 
+.free_delivery_tomorrow-paragraph {
+  font-size: x-large;
+  color: black;
+}
+.add_to_cart-button {
+  background-color: yellow;
+  width: 150px;
+  height: 50px;
+  font-size: large;
+  border-style: none;
+  cursor: pointer;
+  border-radius: 75px;
+  margin-right: 8px;
+
+}
+.buy_now-button {
+  width: 150px;
+  height: 50px;
+  font-size: large;
+  border-style: none;
+  cursor: pointer;
+  border-radius: 75px;
+  margin-left: 8px;
+  background-color: orange;
+}

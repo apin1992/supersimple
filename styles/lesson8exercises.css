@@ -1,0 +1,86 @@
+.name-box,.email-box {
+  display: block;
+  width: auto;
+  height: auto;
+  text-align: left;
+  font-size: large;
+  color: gray;
+  margin-bottom: 20px;
+
+}
+.thanks-text, .yes-button, .no-button {
+  display: inline-block;
+  vertical-align: middle;
+
+}
+.search-google {
+  width: 800px;
+  font-size: large;
+  color: gray;
+  border-radius: 30px;
+  height: 50px;
+  border-style: hidden;
+  box-shadow: 
+  15px 15px 15px rgba(0, 0, 0, 0.15);
+margin-left: 700px;}
+.google-pic {
+  margin-left: 700px;
+}
+.firstname-box, .lastname-box{
+  height: 50px;
+  width: 200px;
+  border-style: solid;
+  border-color: gray;
+  
+  border-radius: 10px;
+  display: inline-block;
+}
+.email2-box {
+  height: 50px;
+  width: 400px;
+  border-style: solid;
+  border-color: gray;
+  
+  border-radius: 10px;
+  display: inline-block;
+}
+  .signup-button {
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: large;
+    border-style: hidden;
+    height: 50px;
+    width: 400px;
+    
+
+  }
+  .request-text {
+    font-size: 50px;
+    font-weight: bolder;
+
+  }
+  .enterpickup-text, .enter-text {
+    color: gray;
+    opacity: .5;
+    height: 40px;
+    width: 360px;
+    border-radius: 5px;
+
+
+  }
+  .requestnow-button {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size: large;
+
+  }
+  .schedule-button {
+     height: 50px;
+     width: 250px;
+     border-style: hidden;
+     font-size: large;
+  }

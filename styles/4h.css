@@ -1,0 +1,11 @@
+.strech_button {
+  font-stretch: expanded 100px;
+    }
+    .stech_button:active {
+      font-stretch: expanded 100px;
+    }
+    .strech-button:hover {
+     box-sizing:border-box;
+     max-inline-size: initial;
+    }
+    

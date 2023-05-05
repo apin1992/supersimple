@@ -1,0 +1,87 @@
+.chip-text:active{
+  background-color: aqua;
+}
+.chip-text { 
+  color: blue;
+  cursor: pointer;
+}
+.here-text {
+  text-align: left;
+}
+.as-text {
+  text-align: left;
+  margin-right: 100px;
+  width: 480px;
+}
+.free_code-text {
+  font-weight: bold;
+  text-align: left;
+}
+.free-text {
+  color: gray;
+  font-weight: 100;
+
+}
+.red-text {
+  color: red;
+
+}
+.after-text {
+  text-align: left;
+
+}
+.percentage-text {
+  text-align: left;
+  color: green;
+}
+.usd {
+  font-size: medium;
+  color: gray;
+  text-align: left;
+}
+.dollar-text {
+  font-size: xx-large;
+  text-align: left;
+}
+.buy-button {
+  background-color: blue;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  margin-left: 430;
+  cursor: pointer;
+  color: white;
+  
+
+}
+.button {
+  align-items: center;
+  text-align: center;
+  margin: auto;
+}
+.p {
+  font-family: arial;
+}
+.from-text {
+  font-size: small;
+  text-align: center;
+}
+.supercharged-text {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+  align-items: center;
+}
+
+.macbook-text {
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+}
+.new-text {
+  font-size: small;
+  color: red;
+  text-align: center;
+}

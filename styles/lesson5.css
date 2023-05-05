@@ -1,0 +1,56 @@
+
+
+
+.learn-text:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+.learn-text {
+  color: blue;
+  
+
+}
+.shopping-text {
+  font-style: bold;
+  font-size: large;
+  font-family: arial;
+}
+.get-button {
+  background-color: green;
+  color: white;
+  border-radius: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.beginner-text {
+  font-size: small;
+  font-family: verdana;
+  
+  color: gray;
+}
+.tahoma-text {
+font-size: large;
+font-family: Tahoma;
+font-weight: bold;
+
+}
+.arial-text {
+font-size: large;
+font-family: arial;
+font-weight: bold;
+
+}
+.sales-text {
+font-family: arial ;
+font-size: medium;
+color: red;
+}
+.verdana-text {
+font-size: medium;
+font-family: verdana;
+font-weight: bold;
+}
